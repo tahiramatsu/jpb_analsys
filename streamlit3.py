@@ -1,9 +1,9 @@
 import pandas as pd
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 import numpy as np
 import datetime
 import streamlit as st
-import plotly.express as px
+# import plotly.express as px
 
 # 日経平均、銀行業、ゆうちょの月次の株価のcsvファイルの読み込み
 # 2015‐11‐30を基準点（reference point）として株価を100とする
